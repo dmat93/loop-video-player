@@ -7,7 +7,7 @@
 
 # GOAL
 This script will launch a VLC instance every STOP\_TIME playing video in the list (in series) starting from a random start time in the interval 
-[ 1 - VIDEO\_DURATION ]. \\
-On the client-side please run a vlc instance in the format \\
-	`vlc --loop http://[SEERVER_IP]:80/test`
+[ 1 - VIDEO\_DURATION ].  
+On the client-side please run a vlc instance in the format  
+	`vlc --loop http://[SEERVER_IP]:80/test`  
 Loop option allow the client video-player to play continously the available video.
